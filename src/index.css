@@ -1,7 +1,12 @@
 a{
-  color: red
+  color: white;
+  border:2px solid silver;
+  padding:15px 20px;
+  background-color: navy;
+  border-radius: 20px;
+
 }
 
 .active{
-  color:green
+  color:red
 }
